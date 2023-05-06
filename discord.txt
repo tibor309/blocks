@@ -1,0 +1,5 @@
+# Links from trafotin's video
+0.0.0.0 discord.com/api/v9/science
+0.0.0.0 discord.com/api/v9/track
+0.0.0.0 discord.com/api/v9/applications/detectable
+0.0.0.0 discord.com/api/v9/friend-suggestions
